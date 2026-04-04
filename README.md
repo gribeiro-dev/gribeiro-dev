@@ -1,14 +1,10 @@
-# 👨🏻‍💻 Gustavo Ribeiro
-
-**`ADS Student`**
-
-<img width="900" height="300" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"></p>
+<img width="900" height="300" src="https://cdn.discordapp.com/attachments/1246185705114177648/1489831210678227154/github-header-banner1.png?ex=69d1d8f0&is=69d08770&hm=24599050a69811bcfcb7f3f7285c58d10c682b6b1eacdd4c9e235f367c4e37e3&"></p>
 
 Me chamo Gustavo Ribeiro de Carvalho, tenho 16 anos e sou natural de São Paulo. Atualmente, estou fazendo o ensino médio na instituição SESI e de forma integral, faço o curso técnico em **Análise e desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e atualmente meu foco total está em
 
-*   **☕ Java -> Lógica, POO e estruturas de dados**
+###    **☕ Java -> Lógica, POO e estruturas de dados**
 
-*   **🐧 Linux -> Explorando o sistema e o terminal para entender melhor a infraestrutura onde o software roda.**
+###    **🐧 Linux -> Explorando o sistema, terminal e infraestrutura**
 
 Meu objetivo atual é aprofundar meus conhecimentos técnicos e **ingressar no mercado de trabalho**, onde eu possa aplicar o que aprendo em sala de aula e em cursos complementares
 
