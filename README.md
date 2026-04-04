@@ -2,6 +2,7 @@
 
 **`ADS Student`**
 
+<img width="900" height="300" src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"></p>
 
 Me chamo Gustavo Ribeiro de Carvalho, tenho 16 anos e sou natural de São Paulo. Atualmente, estou fazendo o ensino médio na instituição SESI e de forma integral, faço o curso técnico em **Análise e desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e atualmente meu foco total está em
 
