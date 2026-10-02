@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="github-header-banner.png" alt="Banner Gustavo Ribeiro" width="100%">
+  <img src="github-header-banner (1).png" alt="Banner Gustavo Ribeiro" width="100%">
 </div>
 
+<br>
 
 Me chamo Gustavo Ribeiro de Carvalho, tenho 16 anos e sou natural de São Paulo. Atualmente, estou fazendo o ensino médio na instituição SESI e de forma integral, faço o curso técnico em **Análise e desenvolvimento de Sistemas no SENAI**. Sou apaixonado por tecnologia e atualmente meu foco total está em
-
-###    **☕ Java -> Lógica, POO e estruturas de dados**
-
-###    **🐧 Linux -> Explorando o sistema, terminal e infraestrutura**
 
 Meu objetivo atual é aprofundar meus conhecimentos técnicos e **ingressar no mercado de trabalho**, onde eu possa aplicar o que aprendo em sala de aula e em cursos complementares
 
