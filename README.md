@@ -32,6 +32,11 @@ Sou um desenvolvedor Back-End e estudante do 2° semestre de <strong>Análise e 
 
 <br>
 
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
+</p>
+<br>
+
 <div align="center">
   <a href="https://github.com/gribeiro-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gribeiro-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=00A8FF&text_color=FFE3E3&icon_color=00A8FF&border_color=00A8FF"/>
