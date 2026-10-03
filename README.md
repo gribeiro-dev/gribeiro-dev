@@ -1,9 +1,6 @@
 <h1 align="center">Olá! Meu nome é Gustavo Ribeiro 👋 </h1>
 <h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h4>
 
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
-</p>
 <br>
 
 <p align="center">
