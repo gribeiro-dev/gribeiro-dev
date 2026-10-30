@@ -36,7 +36,7 @@ Sou um desenvolvedor Back-End e estudante do 2° semestre de <strong>Análise e 
 
 <div align="center">
   <a href="https://github.com/gribeiro-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gribeiro-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=00A8FF&text_color=FFE3E3&icon_color=00A8FF&border_color=00A8FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gribeiro-dev&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFFF&icon_color=FFFFFF&border_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gribeiro-dev&layout=compact&langs_count=7&bg_color=1F1D36&title_color=00A8FF&text_color=FFE3E3&border_color=00A8FF"/>
   </a>
 </div>
